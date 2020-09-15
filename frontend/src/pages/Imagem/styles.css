@@ -1,0 +1,76 @@
+.container {
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.container-imagens {
+    margin-top: 100px;
+    height: 600px;
+    width: 600px;
+    margin-right: 30%;
+    margin-left: 20%;
+    background-color: #f5f5f5;
+    overflow:auto; 
+}
+
+.titulo-imagens {
+    color: black;
+    font-size: 30px;
+    margin-right: 30%;
+    margin-left: 35%;
+}
+
+.imagem {
+    margin-top: 20px;
+    background-color: azure;
+    margin-right: 22%;
+    margin-left: 22%;
+    height: 200px;
+    width: 350px;
+}
+
+.container-botao {
+    margin-right: 30%;
+    margin-left: 30%;
+}
+
+.botao-salvar {
+    margin-top: 10px;
+    border: 0;
+    border-radius: 4px;
+    height: 48px;
+    color: white;
+    font-size: 16px;
+    background: #008000;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+.botao-voltar {
+    margin-top: 10px;
+    border: 0;
+    border-radius: 4px;
+    height: 48px;
+    color: white;
+    font-size: 16px;
+    background: #4682B4;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.botao-remover {
+    border: 0;
+    border-radius: 10px;
+    height: 48px;
+    color: white;
+    font-size: 16px;
+    background: #DF4723;
+    font-weight: bold;
+    cursor: pointer;
+    margin-right: 32%;
+    margin-left: 41%;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
